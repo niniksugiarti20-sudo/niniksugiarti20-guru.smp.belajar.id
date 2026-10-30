@@ -1,0 +1,6 @@
+{
+  "name": "LKPD - Sistem Pernapasan & PM2.5",
+  "description": "Aplikasi LKPD interaktif sistem pernapasan manusia dan polusi PM2.5 dengan dasbor guru untuk pemantauan dan pengeditan hasil nilai siswa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
